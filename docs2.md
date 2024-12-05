@@ -1,7 +1,7 @@
 Cleaning your teeth with The Pavel robotic toothbrush
 Note: The Pavel robotic toothbrush is totally safe to use for adults, pets, and children. 
 The Pavel robotic toothbrush cleans your teeth at a phenomenally fast speed. It is designed to clean your teeth in less than three minutes. A timer bell on the toothbrush lets you know when the 2 minutes are up. The time you save on dental care can be put to other uses, for example, picking your nose. 
-Prerequisites
+Prerequisite
 Toothpaste
 Optional: Water to rinse your mouth
 Steps
@@ -13,4 +13,5 @@ Steps
 4. Move the toothbrush around to ensure all your teeth are brushed.
 	The toothbrush turns off automatically after 2 minutes.
 5. Optional: Rinse your mouth with water.
-6. Rinse your toothbrush.
+6. Rinse your toothbrush./
+
